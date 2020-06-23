@@ -1,0 +1,3 @@
+# Hierarchical Multi-Scale Attention Network for Semantic Segmentation
+
+This project was completed as a group effort for the graduate course 'Deep Learning with Applications' at the University of Tehran. The repository contains the code implementation in the `project-code.ipynb` file, which can be used to reproduce the results obtained from our work on Semantic Segmentation using a Hierarchical Multi-Scale Attention Network. Additionally, for a comprehensive understanding of our methodology, results, and conclusions, please refer to the `report.pdf` or `presentation.pdf` files included in this repository.
